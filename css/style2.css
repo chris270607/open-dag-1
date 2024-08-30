@@ -1,0 +1,25 @@
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 30%, rgba(0,3,120,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 85px;
+    color: black;
+}
+
+nav {
+    text-align: right;
+    padding: 30px;
+}
+
+img {
+    max-width: 50%;
+    opacity: 0.7;
+}
+
+div{
+    text-align: center;
+}
